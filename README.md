@@ -1,4 +1,4 @@
-# 📌 IT Purple Hack 2026 — LLM Hallucination Detection (Sber)
+# IT Purple Hack 2026 — LLM Hallucination Detection (Sber)
 
 Проект для обнаружения фактологических галлюцинаций в ответах LLM-модели GigaChat.
 
@@ -112,7 +112,7 @@
 
 ---
 
-### ⚡ Производительность
+### Производительность
 
 | Метрика | Значение |
 |--------|----------|
