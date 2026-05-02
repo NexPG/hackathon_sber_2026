@@ -160,3 +160,7 @@
 ### Скриншот таблицы
 
 ![Hackathon Results](docs/hackathon_results.png)
+
+### Скриншот сертификата об участии
+
+![Hackathon Certificate Preview](docs/certificate-preview.png)
